@@ -94,7 +94,18 @@
 10. redux和mobox区别
 11. redux异步操作
 
+## 测试
+
 ## node
+
+> 首先 node 不是一门后台语言而是一个环境，一个能够让 js 运行在服务器的环境，这个环境就好比是服务器上的浏览器（虽然不是很恰当），但正是因为有了它才使得 js 变成了一门后台语言。
+
+1. node遵循的规范
+2. require寻找依赖
+3. node模块安装
+4. node应用场景
+5. node优点
+6. node内置模块（http，fs文件系统，path路径，url模块，queryString查询字符串，assert断言，stream流，zlib压缩）
 
 ## 小程序
 
